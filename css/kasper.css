@@ -1,6 +1,8 @@
-/* Start variables */
-
-/* End variables */
+/* Start Variables */
+:root {
+    --main-color: #19c8fa;
+}
+/* End Variables */
 /* Start Global Rules */
 * {
     -webkit-box-sizing: border-box;
@@ -82,4 +84,5 @@ header nav ul li a {
     font-size: 14px;
     transition: 0.3s;
 }
+
 /* End Header */
