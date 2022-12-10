@@ -1,3 +1,6 @@
+/* Start variables */
+
+/* End variables */
 /* Start Global Rules */
 * {
     -webkit-box-sizing: border-box;
@@ -72,11 +75,11 @@ header nav ul {
     display: flex;
 }
 header nav ul li a {
+    padding: 40px 10px;
     display: block;
     color: white;
     text-decoration: none;
     font-size: 14px;
     transition: 0.3s;
-    padding: 40px 10px;
 }
 /* End Header */
