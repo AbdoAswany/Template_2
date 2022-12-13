@@ -86,7 +86,9 @@ header nav ul {
     display: flex;
 }
 @media (max-width: 767px) {
-
+    header nav ul {
+        
+    }
 }
 header nav ul li a {
     padding: 40px 10px;
