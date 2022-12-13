@@ -87,7 +87,7 @@ header nav ul {
 }
 @media (max-width: 767px) {
     header nav ul {
-        
+        display: none;
     }
 }
 header nav ul li a {
