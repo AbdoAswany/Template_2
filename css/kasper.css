@@ -100,7 +100,7 @@ header nav ul {
         background-color: rgb(0 0 0 / 50%);
     }
     header nav .toggle-menu:hover + ul li a {
-        padding: ;
+        padding: 15px;
     }
 }
 header nav ul li a {
