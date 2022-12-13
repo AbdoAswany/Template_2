@@ -48,7 +48,7 @@ ul {
 /* End Global Rules */
 /* Start Header */
 header {
-    position: ;
+    position: absolute;
 }
 header .container {
     display: flex;
