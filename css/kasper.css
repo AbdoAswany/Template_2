@@ -50,7 +50,8 @@ ul {
 header {
     position: absolute;
     left: 0;
-    width: 100% ;
+    width: 100%;
+    z-index: ;
 }
 header .container {
     display: flex;
