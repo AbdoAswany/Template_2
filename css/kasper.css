@@ -77,8 +77,8 @@ header nav .toggle-menu {
     color: white;
     font-size: 22px;
 }
-@media () {
-    
+@media (min-width: 768px) {
+
 }
 header nav ul {
     display: flex;
