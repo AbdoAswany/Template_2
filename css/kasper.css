@@ -141,6 +141,7 @@ header nav .form i {
 /* Start Landing */
 .landing {
     min-height: 100vh;
+    background-color: ;
     background-image: url(/images/Benzema.jpg);
     background-size: cover;
 }
