@@ -157,6 +157,8 @@ header nav .form i {
 .landing .text {
     position: absolute;
     left: 0;
-    top: 50%;;
+    top: 50%;
+    transform: ;
+    
 }
 /* End Landing */
