@@ -271,7 +271,7 @@ header nav .form i {
     padding-bottom: var(--section-padding);
 }
 .services .srv-box {
-    
+    display: ;
 }
 .services .srv-box i {
     
@@ -280,6 +280,6 @@ header nav .form i {
 
 }
 .services .srv-box p {
-    
+
 }
 /* End Services */
