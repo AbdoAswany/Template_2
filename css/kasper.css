@@ -315,6 +315,7 @@ header nav .form i {
     align-items: center;
 }
 .design::before {
-    content: ''
+    content: '';
+    position: ;
 }
 /* End Design */
