@@ -53,6 +53,15 @@ ul {
 .main-heading h2 {
     
 }
+.main-heading h2::before {
+    
+}
+.main-heading h2 {
+    
+}
+.main-heading h2 {
+    
+}
 /* End Components */
 /* Start Header */
 header {
