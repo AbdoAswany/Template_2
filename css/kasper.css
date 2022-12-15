@@ -323,9 +323,12 @@ header nav .form i {
     height: 100%;
     background-color: rgb(0 0 0 / 20%);
 }
-.design .image ,
+.design .image,
 .design .text{
     position: relative;
     z-index: 2;
+}
+.design .image {
+    
 }
 /* End Design */
