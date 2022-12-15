@@ -55,6 +55,7 @@ ul {
     content: '';
 }
 .main-heading h2::after {
+    content: '';
 }
 .main-heading p {
 }
