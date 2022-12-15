@@ -327,7 +327,7 @@ header nav .form i {
 .design .text{
     position: relative;
     z-index: 2;
-    flex: ;
+    flex: 1;
 }
 .design .image {
     text-align: center;
