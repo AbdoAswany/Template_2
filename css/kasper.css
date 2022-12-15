@@ -278,7 +278,7 @@ header nav .form i {
 }
 .services .srv-box h3 {
     margin-bottom: 30px;
-    color: ;
+    color: var(--main-color);
 }
 .services .srv-box p {
 
