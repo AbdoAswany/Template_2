@@ -271,7 +271,7 @@ header nav .form i {
     padding-bottom: var(--section-padding);
 }
 .services .srv-box {
-    display: ;
+    display: flex;
 }
 .services .srv-box i {
     
