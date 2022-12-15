@@ -335,7 +335,7 @@ header nav .form i {
 }
 @media (max-width: 767px) {
     .design .image {
-        
+        display: ;
     }
 }
 .design .image img {
