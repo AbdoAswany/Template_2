@@ -313,6 +313,7 @@ header nav .form i {
     background-image: url(/images/UCL\ 2022.jpg);
     display: flex;
     align-items: center;
+    overflow: ;
 }
 .design::before {
     content: '';
