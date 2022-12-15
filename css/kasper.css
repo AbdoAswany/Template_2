@@ -59,6 +59,7 @@ ul {
 }
 .main-heading h2::before {
     content: '';
+    position: ;
 }
 .main-heading h2::after {
     content: '';
