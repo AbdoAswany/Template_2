@@ -48,19 +48,15 @@ ul {
 /* End Global Rules */
 /* Start Components */
 .main-heading {
-
 }
 .main-heading h2 {
-    
 }
 .main-heading h2::before {
-    
+    content: '';
 }
 .main-heading h2::after {
-    
 }
 .main-heading p {
-    
 }
 /* End Components */
 /* Start Header */
