@@ -317,6 +317,6 @@ header nav .form i {
 .design::before {
     content: '';
     position: absolute;
-    left: ;
+    left: 0;
 }
 /* End Design */
