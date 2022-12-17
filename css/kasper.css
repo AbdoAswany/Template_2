@@ -386,7 +386,7 @@ header nav .form i {
     margin-top: 60px;
 }
 .portfolio .imgs-container .box {
-    position: ;
+    position: relative;
 }
 @media (min-width: 768px) {
     .portfolio .imgs-container .box {
