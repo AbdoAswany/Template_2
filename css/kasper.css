@@ -381,10 +381,11 @@ header nav .form i {
     color: white;
 }
 .portfolio .imgs-container {
+    display: ;
 }
 .portfolio .imgs-container .box {
 }
 .portfolio .imgs-container .box img {
-    max-width: 100px;
+    max-width: 100%;
 }
 /* End Portfolio */
