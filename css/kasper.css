@@ -407,11 +407,7 @@ header nav .form i {
 }
 .portfolio .imgs-container .box img {
     max-width: 100%;
-    transition: ;
-    -webkit-transition:;
-    -moz-transition:;
-    -ms-transition:;
-    -o-transition:;
+    transition: 0.3s;
 }
 .portfolio .imgs-container .box .caption {
     position: absolute;
