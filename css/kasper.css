@@ -381,9 +381,10 @@ header nav .form i {
     color: white;
 }
 .portfolio .imgs-container {
-
 }
 .portfolio .imgs-container .box {
-
+}
+.portfolio .imgs-container .box img {
+    
 }
 /* End Portfolio */
