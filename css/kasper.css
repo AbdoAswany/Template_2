@@ -443,5 +443,6 @@ header nav .form i {
 .video::before {
     content: "";
     position: absolute;
+    left: ;
 }
 /* End Video */
