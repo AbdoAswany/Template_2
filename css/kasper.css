@@ -381,7 +381,7 @@ header nav .form i {
     color: white;
 }
 .portfolio .imgs-container {
-    display: ;
+    display: flex;
 }
 .portfolio .imgs-container .box {
 }
