@@ -456,11 +456,7 @@ header nav .form i {
     width: 100%;
     position: relative;
     top: 50%;
-    transform: ;
-    -webkit-transform:;
-    -moz-transform:;
-    -ms-transform:;
-    -o-transform:;
+    transform: translateY(-50%);
 }
 .video .text h2 {
 
